@@ -1,0 +1,8 @@
+{
+  "name": "TrueChain - Our Web final 6",
+  "description": "A secure, blockchain-backed traceability and certification platform for food and beverages. Ensuring provenance from farm to fork with smart certification and transparent supply chains.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
